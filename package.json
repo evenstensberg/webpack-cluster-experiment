@@ -1,0 +1,12 @@
+{
+  "name": "webpack-cluster-experiment",
+  "version": "1.0.0",
+  "description": "Run webpack child compilation as worker processes",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Even Stensberg<evenstensberg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "import-global": "^0.1.0"
+  }
+}
