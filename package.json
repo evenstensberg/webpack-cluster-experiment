@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Run webpack child compilation as worker processes",
   "main": "index.js",
+  "bin": {
+    "threading": "./index.js"
+  },
   "keywords": [],
   "author": "Even Stensberg<evenstensberg@gmail.com>",
   "license": "MIT",
